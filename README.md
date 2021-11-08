@@ -179,16 +179,20 @@ Worksheets("All Stocks Analysis").Activate
 End Sub
 
 ### 2017 Stocks
-![2017] 
+![All_Stocks_2017](https://user-images.githubusercontent.com/92833805/140678309-1741aee4-7f1d-411f-ae9e-6e0acb6868dc.png)
+###
 Great performance on these stocks, mostly green that means postive returns on year of 2017.
 ### 2018 Stocks
+![All_Stocks_2018](https://user-images.githubusercontent.com/92833805/140678417-378b79ff-a866-42c8-8d18-26b34d41e05e.png)
+###
 Contrary of 2017, the year of 2018 show many negative returns in red meaning a bad performance for selected stocks.
 ### Execution Times
 Running the code successfully, the execution to run the macro for the year of **2017** was 0.08 seconds, while **2018** took 0.09 second. Really fast and light script.
 ### Execution time for 2017
-![2017]
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/92833805/140678369-91eedd6c-cd6a-4e3a-9bcb-6c04780b2ccb.png)
 ### Execution time for 2018 
-![2018]
+![All_Stocks_2018](https://user-images.githubusercontent.com/92833805/140678491-40629f97-d317-4ae5-a49c-def3d72638d9.png)
+
 ## Summary
 ### Advantages of refactoring a code
 When you have a good code written, with commented explaining what the line is doing it is very satisfactory and time saving.
