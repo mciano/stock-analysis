@@ -5,8 +5,7 @@ This project has the purpose to analyze some list of stocks performance, over th
 ## Results
 This Analysis shows the stock **End** price divided by **Start** price -1 that give us the *Stock Return* , *positive* (green) or *negative*(red).
 ### Code
-Sub AllStocksAnalysisRefactored()
-    
+Sub AllStocksAnalysisRefactored()   
     Dim startTime As Single
     Dim endTime  As Single
 
