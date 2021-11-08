@@ -5,4 +5,5 @@ This project has the purpose to analyse some list of stocks performace, over the
 ## Results
 This Analysis shows the stock **End** price divided by **Start** price -1 that give us the *Stock Return* , *positive* (green) or *negative*(red).
 ###2017 Stocks###
-! [Stocks2017]Resource/All Stocks 2017.png
+![2017]
+
