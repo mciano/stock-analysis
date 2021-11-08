@@ -182,7 +182,7 @@ End Sub
 ### 2017 Stocks
 ![All_Stocks_2017](https://user-images.githubusercontent.com/92833805/140678309-1741aee4-7f1d-411f-ae9e-6e0acb6868dc.png)
 ###
-Great performance on these stocks, mostly green that means postive returns on year of 2017.
+Great performance on these stocks, mostly green that means postive returns on stocks of 2017.
 ### 2018 Stocks
 ![All_Stocks_2018](https://user-images.githubusercontent.com/92833805/140678417-378b79ff-a866-42c8-8d18-26b34d41e05e.png)
 ###
