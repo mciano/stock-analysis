@@ -193,7 +193,7 @@ Running the code successfully, the execution to run the macro for the year of **
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/92833805/140678369-91eedd6c-cd6a-4e3a-9bcb-6c04780b2ccb.png)
 ### Execution time for 2018 
 ![All_Stocks_2018](https://user-images.githubusercontent.com/92833805/140678491-40629f97-d317-4ae5-a49c-def3d72638d9.png)
-
+![lab](/resources/VBA_Challenge_2018.png)
 ## Summary
 ### Advantages of refactoring a code
 When you have a good code written, with commented explaining what the line is doing it is very satisfactory and time saving.
