@@ -190,12 +190,12 @@ Contrary of 2017, the year of 2018 show many negative returns in red meaning a b
 ### Execution Times
 Running the code successfully, the execution to run the macro for the year of **2017** was 0.08 seconds, while **2018** took 0.09 second. Really fast and light script.
 ### Execution time for 2017
-![VBA_Challenge_2017](/resources/vba_challenge_2017.png)
+![VBA_Challenge_2017](/Resources/VBA_Challenge_2017.png)
 ### Execution time for 2018 
-![All_Stocks_2018](/resources/vba_challenge_2018.png)
+![All_Stocks_2018](/Resources/VBA_Challenge_2018.png)
 ## Summary
 ### Advantages of refactoring a code
 When you have a good readeable code written, with commented explaining what the line is doing tend to be more easly to rewrite a new code, requeres some time to understand what is going on, and it is very satisfactory and time saving.
 ### Disadvantage of refactoring a code
 Can be very tricky to the reader to understand what of each command are doing, sometimes can be very exhaustive to debug the whole script. Although that also a good opportunity to learn different ways to execute. 
-## 
+##
