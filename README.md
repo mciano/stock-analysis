@@ -1,7 +1,7 @@
 # VBA of Wall Street
 MS Excel with VBA codes to run stock analysis
 ## Overview of Project
-This project has the purpose to analyze some list of stocks performance, over the year of 2017 and 2018. Using the database to run a high performance macro, written on MS Visual Basic. This scrip is able to run the Return of 12 Stocks: End stock price di]evided by Starting price over the requested year. As well as the acumulated volume.
+This project has the purpose to analyze some list of stocks performance, over the year of 2017 and 2018. Using the database to run a high performance macro, written on MS Visual Basic. This scrip is able to run the Return of 12 Stocks: End stock price divided by Starting price over the requested year. As well as the acumulated volume.
 ## Results
 This Analysis shows the stock **End** price divided by **Start** price -1 that give us the *Stock Return* , *positive* (green) or *negative*(red).
 ### Code
@@ -198,4 +198,4 @@ Running the code successfully, the execution to run the macro for the year of **
 When you have a good readeable code written, with commented explaining what the line is doing tend to be more easly to rewrite a new code, requeres some time to understand what is going on, and it is very satisfactory and time saving.
 ### Disadvantage of refactoring a code
 Can be very tricky to the reader to understand what of each command are doing, sometimes can be very exhaustive to debug the whole script. Although that also a good opportunity to learn different ways to execute. 
-##
+## 
