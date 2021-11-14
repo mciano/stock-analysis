@@ -1,7 +1,7 @@
 # VBA of Wall Street
 MS Excel with VBA codes to run stock analysis
 ## Overview of Project
-This project has the purpose to analyze some list of stocks performance, over the year of 2017 and 2018. Using the database to run a high performance macro, written on MS Visual Basic. This scrip is able to run the Return of End stock price and Starting price over the requested year. As well as Total volume. 
+This project has the purpose to analyze some list of stocks performance, over the year of 2017 and 2018. Using the database to run a high performance macro, written on MS Visual Basic. This scrip is able to run the Return of 12 Stocks: End stock price di]evided by Starting price over the requested year. As well as the acumulated volume. 
 ## Results
 This Analysis shows the stock **End** price divided by **Start** price -1 that give us the *Stock Return* , *positive* (green) or *negative*(red).
 ### Code
@@ -180,22 +180,22 @@ Worksheets("All Stocks Analysis").Activate
 End Sub
 
 ### 2017 Stocks
-![All_Stocks_2017](https://user-images.githubusercontent.com/92833805/140678309-1741aee4-7f1d-411f-ae9e-6e0acb6868dc.png)
+![All_Stocks_2017](/resources/All_Stocks_2017.png)
 ###
-Great performance on these stocks, mostly green that means postive returns on stocks of 2017.
+Great performance on these stocks, mostly green that means postive returns on stocks of 2017. Green means positive and red negative, formats set to format the cell for a faster visualization. 
 ### 2018 Stocks
-![All_Stocks_2018](https://user-images.githubusercontent.com/92833805/140678417-378b79ff-a866-42c8-8d18-26b34d41e05e.png)
+![All_Stocks_2018](/resources/all_stocks_2018.png)
 ###
-Contrary of 2017, the year of 2018 show many negative returns in red meaning a bad performance for selected stocks.
+Contrary of 2017, the year of 2018 show many negative returns in red meaning a bad performance for selected stocks. Green means positive and red negative, formats set to format the cell for a faster visualization. 
 ### Execution Times
 Running the code successfully, the execution to run the macro for the year of **2017** was 0.08 seconds, while **2018** took 0.09 second. Really fast and light script.
 ### Execution time for 2017
-![VBA_Challenge_2017](https://user-images.githubusercontent.com/92833805/140678369-91eedd6c-cd6a-4e3a-9bcb-6c04780b2ccb.png)
+![VBA_Challenge_2017](/resources/vba_challenge_2017.png)
 ### Execution time for 2018 
-![All_Stocks_2018](https://user-images.githubusercontent.com/92833805/140678491-40629f97-d317-4ae5-a49c-def3d72638d9.png)
-![lab](/resources/VBA_Challenge_2018.png)
+![All_Stocks_2018](/resources/vba_challenge_2018.png)
 ## Summary
 ### Advantages of refactoring a code
-When you have a good code written, with commented explaining what the line is doing it is very satisfactory and time saving.
+When you have a good readeable code written, with commented explaining what the line is doing tend to be more easly to rewrite a new code, requeres some time to understand what is going on, and it is very satisfactory and time saving.
 ### Disadvantage of refactoring a code
-Can be very tricky to the reader to understand what of each command are doing, sometime can be very exhaustive to debug the whole script. Although that also a good opportunity to learn different ways to execute.
+Can be very tricky to the reader to understand what of each command are doing, sometimes can be very exhaustive to debug the whole script. Although that also a good opportunity to learn different ways to execute. 
+##
