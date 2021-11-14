@@ -180,7 +180,7 @@ Worksheets("All Stocks Analysis").Activate
 End Sub
 
 ### 2017 Stocks
-![All_Stocks_2017](/resources/All_Stocks_2017.png)
+![All_Stocks_2017](/Resources/All_Stocks_2017.png)
 ###
 Great performance on these stocks, mostly green that means postive returns on stocks of 2017. Green means positive and red negative, formats set to format the cell for a faster visualization. 
 ### 2018 Stocks
