@@ -45,7 +45,7 @@ Worksheets("All Stocks Analysis").Activate
     tickers(10) = "TERP"
     tickers(11) = "VSLR"
     
-    'Activate data worksheet
+    'Activate data worksheet 
     
     Worksheets(yearValue).Activate
     
