@@ -198,4 +198,12 @@ Running the code successfully, the execution to run the macro for the year of **
 When you have a good readeable code written, with commented explaining what the line is doing tend to be more easly to rewrite a new code, requeres some time to understand what is going on, and it is very satisfactory and time saving.
 ### Disadvantage of refactoring a code
 Can be very tricky to the reader to understand what of each command are doing, sometimes can be very exhaustive to debug the whole script. Although that also a good opportunity to learn different ways to execute. 
-##
+
+#
+
+**Contact:**
+**E-mail:** mciano@hotmail.co.uk
+
+**LinkedIn:** https://www.linkedin.com/in/marciorciano/
+
+#
